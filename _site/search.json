@@ -2,11 +2,11 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "Sobre nosotros",
+      "description": "Bienvenidos! Mi nombre es Kelvin M. Santiago, estudiante de la Universidad de Puert Rico Humacao.\nEl proposito de esta pagina web es poder ayudar a estudiantes interesados en ciencia de datos y poder mostrar distintas maneras de presentar datos profesionalmente.",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-07-29T14:15:47-04:00"
+      "last_modified": "2021-07-30T15:21:49-04:00"
     },
     {
       "path": "index.html",
